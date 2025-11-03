@@ -1,2 +1,2 @@
 # RTTY
-RTTY beacon
+RTTY маяк
